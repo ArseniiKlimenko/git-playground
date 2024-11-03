@@ -22,7 +22,7 @@ def guess_is_valid(candidate):
             return False
     return True
 
-
+guesses = []
 guessed = 0
 errors = 0
 
